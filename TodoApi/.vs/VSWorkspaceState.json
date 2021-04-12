@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Controllers",
-    "\\Data",
-    "\\Models",
-    "\\Properties"
+    "\\Models\\Data",
+    "\\wwwroot",
+    "\\wwwroot\\css",
+    "\\wwwroot\\js"
   ],
   "SelectedNode": "\\Startup.cs",
   "PreviewInSolutionExplorer": false
